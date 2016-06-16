@@ -1,0 +1,124 @@
+
+body {
+background: white;
+}
+h1 {
+   float: left;
+
+    
+    
+    
+   background:  white;
+    color: red;
+    text-align: center;
+    width: 1300px;
+    align-content: center;
+    border: 7px;
+    font-family:monospace;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+hl2 {
+    
+     float: left;
+    
+   background:  white;
+    color: red;
+    text-align: center;
+    width: 1300px;
+    align-content: center;
+    border: 7px;
+    font-family:monospace;
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+
+
+discription {
+    
+    width: 500px;
+        hight: 600px;
+    text-align: center;
+        font: 50pt;
+    font-family: monospace;
+ border: solid;
+    border-style: solid;
+    border: 24px;
+    float:none
+    
+}
+
+li {
+background-color: red;
+    padding-bottom: 10px;
+    border: 50px;
+  font-size: 18px;
+    color: white;
+}
+
+img {
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+pctr {
+    
+    
+    
+    border-style: solid;
+    border-color: floralwhite;
+    border-width: 20px;
+    float: right;
+  padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    
+           
+}
+
+facts { 
+    font-family: monospace;
+    font-size: 18;
+    padding: 10px;
+    color: red;
+}
+
+
+
+
+
+
+    
+}
+{
+audio {
+
+    border-style: solid;
+    border-width: thick;
+   float: right
+    padding: 50px;
+    text-align: right;
+    
+}
+
+
+    colorboard {
+    
+    image resize: horizontal
+    }
+    
+    
+  wiki {font-size: 40px;
+    }
+    
+    
+    
+    
+    
